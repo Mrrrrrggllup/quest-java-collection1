@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Thanos",
+            "request": "launch",
+            "mainClass": "Thanos",
+            "projectName": "quest-java-collection1_4eaa4dda"
+        }
+    ]
+}
